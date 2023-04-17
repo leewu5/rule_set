@@ -1,10 +1,10 @@
 #ChatGPT
-DOMAIN-KEYWORD, openai
-DOMAIN, chat.openai.com
-DOMAIN-SUFFIX, chat.openai.com
+DOMAIN-KEYWORD,openai
+DOMAIN,chat.openai.com
+DOMAIN-SUFFIX,chat.openai.com
 
 #bard
-DOMAIN-KEYWORD, bard
-DOMAIN, bard.google.com
-DOMAIN-SUFFIX, bard.google.com
+DOMAIN-KEYWORD,bard
+DOMAIN,bard.google.com
+DOMAIN-SUFFIX,bard.google.com
 
