@@ -8,3 +8,7 @@ DOMAIN-KEYWORD,bard
 DOMAIN,bard.google.com
 DOMAIN-SUFFIX,bard.google.com
 
+#paypal
+DOMAIN-KEYWORD,paypal
+DOMAIN,www.paypal.com
+DOMAIN-SUFFIX,www.paypal.com
