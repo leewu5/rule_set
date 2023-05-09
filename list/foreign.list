@@ -5600,3 +5600,7 @@ DOMAIN-SUFFIX,cnix-gov-cn.com
 DOMAIN-SUFFIX,decline.hitun.io
 DOMAIN-SUFFIX,tgtw.cc
 DOMAIN-SUFFIX,jubt.live
+
+#一些其他的网站
+DOMAIN,hezu.wiki
+DOMAIN-SUFFIX,hezu.wiki
