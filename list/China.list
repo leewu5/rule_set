@@ -7029,5 +7029,12 @@ DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
 DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
 
+#Epic
+DOMAIN-SUFFIX,ol.epicgames.com
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,unrealengine.com  
+
 #一些其他冷门的网站
 DOMAIN-SUFFIX,wpxz.org
