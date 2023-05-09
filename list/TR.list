@@ -1,3 +1,4 @@
+#oldubil
 DOMAIN-KEYWORD,oldubil
 DOMAIN,tr-push.dengage.com
 DOMAIN,tr-event.dengage.com
@@ -5,3 +6,10 @@ DOMAIN,oldubil.colendilabs.com
 DOMAIN-SUFFIX,tr-push.dengage.com
 DOMAIN-SUFFIX,tr-event.dengage.com
 DOMAIN-SUFFIX,oldubil.colendilabs.com
+
+#ozan
+DOMAIN-KEYWORD,ozan
+DOMAIN,sdkapi.netmera.com
+DOMAIN,op-prod-tr.ozan.com
+DOMAIN-SUFFIX,sdkapi.netmera.com
+DOMAIN-SUFFIX,op-prod-tr.ozan.com
