@@ -7037,3 +7037,6 @@ DOMAIN-SUFFIX,unrealengine.com
 
 #一些其他冷门的网站
 DOMAIN-SUFFIX,wpxz.org
+DOMAIN-KEYWORD,synology
+DOMAIN-SUFFIX,account.synology.com
+DOMAIN-SUFFIX,insight.synology.com
