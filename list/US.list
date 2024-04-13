@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-KEYWORD,bard
 DOMAIN,bard.google.com
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-KEYWORD,gemini
+DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,gemini.google.com
 
 #paypal
 DOMAIN-KEYWORD,paypal
