@@ -1,7 +1,9 @@
 #ChatGPT
+DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,openai
 DOMAIN,chat.openai.com
 DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,chatgpt.com
 
 #bard
 DOMAIN-KEYWORD,bard
