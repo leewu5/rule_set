@@ -17,3 +17,9 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-KEYWORD,paypal
 DOMAIN,www.paypal.com
 DOMAIN-SUFFIX,www.paypal.com
+
+#1password
+DOMAIN-SUFFIX, 1password.com 
+DOMAIN-SUFFIX, 1passwordservices.com 
+DOMAIN-SUFFIX, 1passwordusercontent.com
+
